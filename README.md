@@ -8,7 +8,7 @@
 
 | | URL |
 |---|---|
-| **Frontend** | https://frontend-lekg0fn8c-mahin1-coders-projects.vercel.app |
+| **Frontend** | https://frontend-qp54kyv1a-mahin1-coders-projects.vercel.app |
 | **Backend API** | https://grand-presence-production-42e3.up.railway.app |
 | **API Docs** | https://grand-presence-production-42e3.up.railway.app/docs |
 
