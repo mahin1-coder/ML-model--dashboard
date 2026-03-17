@@ -35,8 +35,8 @@ export const authApi = {
       localStorage.setItem('access_token', res.data.access_token)
       return res
     }),
-  signup: (data) => api.post('/api/auth/register', data),
-  me: () => api.get('/api/users/me'),
+  signup: (data) => api.post('/api/auth/signup', data),
+  me: () => api.get('/api/auth/me'),
   logout: () => { localStorage.removeItem('access_token') },
 }
 
